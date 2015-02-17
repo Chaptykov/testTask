@@ -1,0 +1,5 @@
+var cards = [
+    {
+        type: 'narrow'
+    }
+];
